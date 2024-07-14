@@ -30,12 +30,12 @@ body {
 }
 
 .score__style {
-    margin-left: 60px;
+    margin-left: 40px;
     letter-spacing: 1.5px;
 }
 
 .score__points {
-    margin-left: 38px;
+    margin-left: 50px;
     font-weight: 1000;
     font-size: 50px;
     color: rgb(104, 102, 102);
