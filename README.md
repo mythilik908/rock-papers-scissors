@@ -46,6 +46,9 @@ The player can click "Play Again" to start a new round, returning to the Home co
 This project provides a fun and engaging way to play Rock, Paper, Scissors online, leveraging modern web technologies to enhance the classic game experience. <br>
 
 
+<img width="873" alt="Screenshot 2024-07-14 at 3 09 40 PM" src="https://github.com/user-attachments/assets/9d4f1488-35ed-4f12-80f7-7c7c7ad29693">
+
+<img width="873" alt="Screenshot 2024-07-14 at 3 09 57 PM" src="https://github.com/user-attachments/assets/00568304-091a-4d1e-a0d7-1ff412e7a6da">
 
 
 
