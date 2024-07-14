@@ -2,6 +2,8 @@
 ## Overview
 This project is a modern web-based implementation of the classic "Rock, Paper, Scissors" game, built using React and styled with CSS. It offers a dynamic and interactive experience with animations, a responsive design, and a score-tracking system. The game is divided into two main components: the home screen and the game screen.
 
+Live Link - https://mythilik908.github.io/rock-papers-scissors/
+
 ## Features
 ## Home Screen
 
