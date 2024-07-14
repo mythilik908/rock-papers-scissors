@@ -42,7 +42,7 @@ function Game() {
  
 
     const handleClick = () => {
-        navigate('/',{ state: { winCount }});
+        navigate('/rock-papers-scissors',{ state: { winCount }});
       };
 
       useEffect(() => {
