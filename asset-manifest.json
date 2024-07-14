@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rock-papers-scissors/static/css/main.5b888196.css",
-    "main.js": "/rock-papers-scissors/static/js/main.e4d4b694.js",
+    "main.js": "/rock-papers-scissors/static/js/main.7813b5bf.js",
     "static/js/453.f13d537e.chunk.js": "/rock-papers-scissors/static/js/453.f13d537e.chunk.js",
     "static/media/logo.svg": "/rock-papers-scissors/static/media/logo.a4a2b39fefcdb6a1a8088c4dba8f3d93.svg",
     "static/media/image-rules.svg": "/rock-papers-scissors/static/media/image-rules.258b753fb6284dc8ae00c5b2fa7938c0.svg",
@@ -12,11 +12,11 @@
     "static/media/icon-close.svg": "/rock-papers-scissors/static/media/icon-close.bde602ecd1a4e55e0c27137ed651e027.svg",
     "static/media/bg-triangle.svg": "/rock-papers-scissors/static/media/bg-triangle.77c6ca418d3751d8f71789234314a8b9.svg",
     "main.5b888196.css.map": "/rock-papers-scissors/static/css/main.5b888196.css.map",
-    "main.e4d4b694.js.map": "/rock-papers-scissors/static/js/main.e4d4b694.js.map",
+    "main.7813b5bf.js.map": "/rock-papers-scissors/static/js/main.7813b5bf.js.map",
     "453.f13d537e.chunk.js.map": "/rock-papers-scissors/static/js/453.f13d537e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b888196.css",
-    "static/js/main.e4d4b694.js"
+    "static/js/main.7813b5bf.js"
   ]
 }
