@@ -1,6 +1,6 @@
 
 import './Home.css';
-import React, { useState,useEffect } from 'react';
+import React, { useState } from 'react';
 import {useNavigate} from 'react-router-dom';
 import {useLocation} from 'react-router-dom';
 import {motion} from 'framer-motion';
@@ -73,9 +73,6 @@ function Home() {
                 <DialogContent>
                 <img className="rules__img"src={rules}/>
                 </DialogContent>
-                <DialogActions>
-                   
-                </DialogActions>
             </Dialog>
       </div>
       </>
