@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors Game 
+# Rock, Paper, Scissors Game ✊✋✌️
 ## Overview 🌟
 Welcome to a modern web-based implementation of the classic "Rock, Paper, Scissors" game! Built using React and styled with CSS, this game offers a dynamic and interactive experience with animations, responsive design, and a score-tracking system. The game is divided into two main components: the Home Screen and the Game Screen.
 
