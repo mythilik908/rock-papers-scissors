@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import { HashRouter } from 'react-router-dom';
 import App from './App';
-import Home from './Home';
-import Game from './Game'
+import Home from './components/home/Home';
+import Game from './components/game/Game';
 import { Routes, Route } from 'react-router-dom';
 import reportWebVitals from './reportWebVitals';
 

@@ -1,15 +1,15 @@
 import './Game.css'
 import {useNavigate} from 'react-router-dom';
 import {useLocation} from 'react-router-dom';
-import scissor from '../src/images/icon-scissors.svg'
-import paper from '../src/images/icon-paper.svg'
-import rock from '../src/images/icon-rock.svg'
-import logo from '../src/images/logo.svg'
+import scissor from '../../images/icon-scissors.svg'
+import paper from '../../images/icon-paper.svg'
+import rock from '../../images/icon-rock.svg'
+import logo from '../../images/logo.svg'
 import React,{ useEffect, useState } from 'react';
 import { SyncLoader } from 'react-spinners';
 import Confetti from 'react-confetti';
-import rules from '../src/images/image-rules.svg'
-import close from '../src/images/icon-close.svg'
+import rules from '../../images/image-rules.svg'
+import close from '../../images/icon-close.svg'
 import Dialog from "@material-ui/core/Dialog";
 import DialogTitle from "@material-ui/core/DialogTitle";
 import DialogContent from "@material-ui/core/DialogContent";

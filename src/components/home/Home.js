@@ -4,16 +4,15 @@ import React, { useState } from 'react';
 import {useNavigate} from 'react-router-dom';
 import {useLocation} from 'react-router-dom';
 import {motion} from 'framer-motion';
-import triangle from '../src/images/bg-triangle.svg'
-import scissor from '../src/images/icon-scissors.svg'
-import paper from '../src/images/icon-paper.svg'
-import rock from '../src/images/icon-rock.svg'
-import logo from '../src/images/logo.svg'
-import rules from '../src/images/image-rules.svg'
-import close from '../src/images/icon-close.svg'
+import triangle from '../../images/bg-triangle.svg'
+import scissor from '../../images/icon-scissors.svg'
+import paper from '../../images/icon-paper.svg'
+import rock from '../../images/icon-rock.svg'
+import logo from '../../images/logo.svg'
+import rules from '../../images/image-rules.svg'
+import close from '../../images/icon-close.svg'
 import Dialog from "@material-ui/core/Dialog";
 import DialogTitle from "@material-ui/core/DialogTitle";
-import DialogActions from "@material-ui/core/DialogActions";
 import DialogContent from "@material-ui/core/DialogContent";
 
 function Home() {
